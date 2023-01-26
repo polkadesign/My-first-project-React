@@ -1,0 +1,27 @@
+:host { 
+  display: contents; 
+}
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-button {
+  height: 52px;
+  display: flex;
+  align-self: flex-start;
+  border-color: #ffffff;
+  border-radius: var(--dl-radius-radius-radius_button);
+  flex-direction: row;
+  background-color: #336f91;
+}
+.component1-icon {
+  fill: #ffffff;
+  width: 24px;
+  height: 24px;
+  align-self: center;
+  margin-right: 10px;
+}
+.component1-text {
+  color: #e4e1e1;
+  align-self: center;
+}

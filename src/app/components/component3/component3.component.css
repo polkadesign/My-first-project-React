@@ -1,0 +1,149 @@
+:host { 
+  display: contents; 
+}
+.component3-container {
+  flex: 0 0 auto;
+  width: 50%;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component3-container1 {
+  display: flex;
+  align-items: flex-start;
+}
+.component3-text {
+  color: #004B76;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+}
+.component3-container2 {
+  display: flex;
+  margin-top: 5px;
+  align-items: flex-start;
+}
+.component3-textinput {
+  color: #576164;
+  border-color: #CCDBE4;
+}
+.component3-root-class-name {
+  width: 100%;
+  height: auto;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name3 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name5 {
+  height: auto;
+  margin-top: var(--dl-space-space-threeunits);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name6 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name7 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name8 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name9 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name10 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name11 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name13 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name16 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name17 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name18 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name19 {
+  height: auto;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name24 {
+  width: 100%;
+  height: auto;
+  align-self: flex-start;
+  margin-top: opx;
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
+.component3-root-class-name25 {
+  width: 100%;
+  height: auto;
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0px;
+  margin-right: var(--dl-space-space-halfunit);
+  margin-bottom: 0px;
+}
