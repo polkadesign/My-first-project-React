@@ -16,7 +16,7 @@ export class AppComponent {
   @Input()
   fluentcheckboxchecked20regular_alt: string =
     'fluentcheckboxchecked20regular3218'
-  rawh2r8: string = ' '
+  rawjeh4: string = ' '
 
   constructor() {}
 }
